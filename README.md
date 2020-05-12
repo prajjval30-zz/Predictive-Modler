@@ -1,3 +1,3 @@
-# Predictive-Modler
+## Predictive-Modler
 
-Project for ARIMA modelling
+Project for ARIMA Modelling
